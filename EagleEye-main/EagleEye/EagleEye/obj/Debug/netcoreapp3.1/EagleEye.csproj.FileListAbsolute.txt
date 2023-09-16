@@ -1,0 +1,62 @@
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.exe
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.deps.json
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.json
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.dev.json
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.AssemblyReference.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.EagleEyeForm.resources
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.GenerateResource.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfoInputs.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfo.cs
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.CoreCompileInputs.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.genruntimeconfig.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.Properties.Resources.resources
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.AssemblyReference.cache
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.EagleEyeForm.resources
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.Properties.Resources.resources
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.GenerateResource.cache
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfoInputs.cache
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfo.cs
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.CoreCompileInputs.cache
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.exe
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.deps.json
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.json
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.dev.json
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\mgonzales\OneDrive - University of Southern Indiana\Desktop\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.genruntimeconfig.cache
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.exe
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.deps.json
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.json
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.dev.json
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.AssemblyReference.cache
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.EagleEyeForm.resources
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.Properties.Resources.resources
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.GenerateResource.cache
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfoInputs.cache
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfo.cs
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.CoreCompileInputs.cache
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.genruntimeconfig.cache
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.CopyComplete
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\ChilkatDnCore.dll
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libchilkatDnCore-9_5_0.so
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libchilkatDnCore-9_5_0.so
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libchilkatDnCore-9_5_0.so
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libchilkatDnCore-9_5_0.so
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libchilkatDnCore-9_5_0.dylib
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libchilkatDnCore-9_5_0.dylib
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chilkatDnCore-9_5_0.dll
+C:\Users\Max Gonzales\Downloads\EagleEye-main (1)\EagleEye-main\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chilkatDnCore-9_5_0.dll

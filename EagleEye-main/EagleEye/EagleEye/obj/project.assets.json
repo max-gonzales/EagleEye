@@ -1,0 +1,227 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ChilkatDnCore31/9.50.93": {
+        "type": "package",
+        "dependencies": {
+          "ChilkatNativeLib": "9.50.93"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/ChilkatDnCore.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ChilkatDnCore.dll": {}
+        }
+      },
+      "ChilkatNativeLib/9.50.93": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libchilkatDnCore-9_5_0.so": {
+            "assetType": "native",
+            "rid": "linux-arm"
+          },
+          "runtimes/linux-arm64/native/libchilkatDnCore-9_5_0.so": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-musl-x64/native/libchilkatDnCore-9_5_0.so": {
+            "assetType": "native",
+            "rid": "linux-musl-x64"
+          },
+          "runtimes/linux-x64/native/libchilkatDnCore-9_5_0.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-arm64/native/libchilkatDnCore-9_5_0.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-x64/native/libchilkatDnCore-9_5_0.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/chilkatDnCore-9_5_0.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/chilkatDnCore-9_5_0.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.46": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "related": ".deps.json;.pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "related": ".deps.json;.pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChilkatDnCore31/9.50.93": {
+      "sha512": "OEsZ42pHwiuMUqBS1l6gUPfxzTtM8UFahWgE17uve39m3t/R02APppczqxOSlaPOMOkO6IyTHR4IyKQckeaYQw==",
+      "type": "package",
+      "path": "chilkatdncore31/9.50.93",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "chilkatdncore31.9.50.93.nupkg.sha512",
+        "chilkatdncore31.nuspec",
+        "lib/netcoreapp3.1/ChilkatDnCore.dll"
+      ]
+    },
+    "ChilkatNativeLib/9.50.93": {
+      "sha512": "+ZaiLcNEJoQoxSP8CI4C7mutpYF2FckcHZS4LK+EzH9to7JBaxIapBRNGcIFc0/M+hKRak+eyaj/j5c0Qecd+g==",
+      "type": "package",
+      "path": "chilkatnativelib/9.50.93",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "chilkatnativelib.9.50.93.nupkg.sha512",
+        "chilkatnativelib.nuspec",
+        "runtimes/linux-arm/native/libchilkatDnCore-9_5_0.so",
+        "runtimes/linux-arm64/native/libchilkatDnCore-9_5_0.so",
+        "runtimes/linux-musl-x64/native/libchilkatDnCore-9_5_0.so",
+        "runtimes/linux-x64/native/libchilkatDnCore-9_5_0.so",
+        "runtimes/osx-arm64/native/libchilkatDnCore-9_5_0.dylib",
+        "runtimes/osx-x64/native/libchilkatDnCore-9_5_0.dylib",
+        "runtimes/win-x64/native/chilkatDnCore-9_5_0.dll",
+        "runtimes/win-x86/native/chilkatDnCore-9_5_0.dll"
+      ]
+    },
+    "HtmlAgilityPack/1.11.46": {
+      "sha512": "dLMn4EVfJBHWmWK4Uh0XGD76FPLHI0qr2Tm0s1m/xmgiHb1JUb9zB8AzO8HtrkBBlMN6JfCUBYddhqC0hZNR+g==",
+      "type": "package",
+      "path": "htmlagilitypack/1.11.46",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "htmlagilitypack.1.11.46.nupkg.sha512",
+        "htmlagilitypack.nuspec",
+        "lib/Net35/HtmlAgilityPack.dll",
+        "lib/Net35/HtmlAgilityPack.pdb",
+        "lib/Net35/HtmlAgilityPack.xml",
+        "lib/Net40-client/HtmlAgilityPack.dll",
+        "lib/Net40-client/HtmlAgilityPack.pdb",
+        "lib/Net40-client/HtmlAgilityPack.xml",
+        "lib/Net40/HtmlAgilityPack.XML",
+        "lib/Net40/HtmlAgilityPack.dll",
+        "lib/Net40/HtmlAgilityPack.pdb",
+        "lib/Net45/HtmlAgilityPack.XML",
+        "lib/Net45/HtmlAgilityPack.dll",
+        "lib/Net45/HtmlAgilityPack.pdb",
+        "lib/NetCore45/HtmlAgilityPack.XML",
+        "lib/NetCore45/HtmlAgilityPack.dll",
+        "lib/NetCore45/HtmlAgilityPack.pdb",
+        "lib/netstandard1.3/HtmlAgilityPack.deps.json",
+        "lib/netstandard1.3/HtmlAgilityPack.dll",
+        "lib/netstandard1.3/HtmlAgilityPack.pdb",
+        "lib/netstandard1.3/HtmlAgilityPack.xml",
+        "lib/netstandard1.6/HtmlAgilityPack.deps.json",
+        "lib/netstandard1.6/HtmlAgilityPack.dll",
+        "lib/netstandard1.6/HtmlAgilityPack.pdb",
+        "lib/netstandard1.6/HtmlAgilityPack.xml",
+        "lib/netstandard2.0/HtmlAgilityPack.deps.json",
+        "lib/netstandard2.0/HtmlAgilityPack.dll",
+        "lib/netstandard2.0/HtmlAgilityPack.pdb",
+        "lib/netstandard2.0/HtmlAgilityPack.xml",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll",
+        "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.XML",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll",
+        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
+        "lib/uap10.0/HtmlAgilityPack.XML",
+        "lib/uap10.0/HtmlAgilityPack.dll",
+        "lib/uap10.0/HtmlAgilityPack.pdb",
+        "lib/uap10.0/HtmlAgilityPack.pri"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ChilkatDnCore31 >= 9.50.93",
+      "HtmlAgilityPack >= 1.11.46"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Max Gonzales\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Max Gonzales\\Downloads\\EagleEye-main (1)\\EagleEye-main\\EagleEye\\EagleEye\\EagleEye.csproj",
+      "projectName": "EagleEye",
+      "projectPath": "C:\\Users\\Max Gonzales\\Downloads\\EagleEye-main (1)\\EagleEye-main\\EagleEye\\EagleEye\\EagleEye.csproj",
+      "packagesPath": "C:\\Users\\Max Gonzales\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Max Gonzales\\Downloads\\EagleEye-main (1)\\EagleEye-main\\EagleEye\\EagleEye\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Max Gonzales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "ChilkatDnCore31": {
+            "target": "Package",
+            "version": "[9.50.93, )"
+          },
+          "HtmlAgilityPack": {
+            "target": "Package",
+            "version": "[1.11.46, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ri5jg6mIY7v8Njw6mGYiB5bD3WhGa2tNOn9bR5zKW2Z/HzNYYRyTWgXm8T+sv1KYvjb091DgqoqKCAYriXXs1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max Gonzales\\Downloads\\EagleEye-main (1)\\EagleEye-main\\EagleEye\\EagleEye\\EagleEye.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max Gonzales\\.nuget\\packages\\chilkatdncore31\\9.50.93\\chilkatdncore31.9.50.93.nupkg.sha512",
+    "C:\\Users\\Max Gonzales\\.nuget\\packages\\chilkatnativelib\\9.50.93\\chilkatnativelib.9.50.93.nupkg.sha512",
+    "C:\\Users\\Max Gonzales\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
